@@ -55,6 +55,11 @@
 
 感情を色で可視化する記録アプリ  
 No.2のアプリを「React + Rails API」でリプレイス開発したアプリ  
+Rails + Turboで開発したColorMirrorを  
+React + Rails API構成へリプレイス。  
+責務分離を目的に、  
+Zustand・TanStack Query・GitHub Actionsを導入して再設計しました。  
+開発を通して、責務設計の変化や、ライブラリの選定について技術記事を3本執筆
 Repository:
 https://github.com/yuji-2293/ColorMirror_Re
 
