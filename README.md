@@ -57,7 +57,6 @@
 
 感情を色で可視化する記録アプリ  
 No.2のアプリを「React + Rails API」でリプレイス開発したアプリ  
-
 Repository:
 https://github.com/yuji-2293/ColorMirror_Re
 
