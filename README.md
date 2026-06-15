@@ -47,8 +47,6 @@
 - Rails API
 - GitHub Actions
 
-を中心に学習しています。
-
 ---
 
 ## Featured Project  
