@@ -1,4 +1,4 @@
-## バッジ
+## BADGES
 
 <p align="left">
   <a href="https://github.com/yuji2534">
@@ -51,27 +51,28 @@
 
 ---
 
-## Featured Project
+## Featured Project  
 
-### ポートフォリオ No.1 ColorMirror_Re
+### ポートフォリオ No.1 「ColorMirror_Re」
 
-感情を色で可視化する記録アプリ
-No.2のアプリを「React + Rails API」でリプレイス開発したアプリ
+感情を色で可視化する記録アプリ  
+No.2のアプリを「React + Rails API」でリプレイス開発したアプリ  
+
 Repository:
 https://github.com/yuji-2293/ColorMirror_Re
 
 ---
-### ポートフォリオ No.2 ColorMirror
+### ポートフォリオ No.2 「ColorMirror」  
 
-感情を色で可視化する記録アプリ
-RUNTEQ卒業制作アプリ
+感情を色で可視化する記録アプリ  
+RUNTEQ卒業制作アプリ  
 
 Repository:
 https://github.com/yuji-2293/ColorMirror
 
 ---
 
-## Technical Articles
+## 技術記事
 
 ### Zustandによる認証状態管理
 
