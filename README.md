@@ -4,9 +4,6 @@
   <a href="https://github.com/yuji2534">
     <img height="20" src="https://komarev.com/ghpvc/?username=yuji2534" />
   </a>
-  <a href="https://github.com/yuji-2293">
-    <img height="20" src="https://img.shields.io/github/followers/yuji-2293?label=follow&logo=github&style=flat" />
-  </a>
   <a href="http://qiita.com/yuji2534">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yuji2534/posts.svg" />
   </a>
@@ -28,7 +25,7 @@
 
 ## About Me
 
-- 🍱 食品製造工場で10年以上勤務
+- 🍱 新卒で入社した会社の食品製造工場で10年以上勤務
 - 👥 現在は製造部門リーダーとしてチーム運営・業務改善を担当
 - 💻 RUNTEQ卒業後、Webアプリ開発を継続
 - 🔄 Rails + Turboで開発したアプリを React + Rails API構成へリプレイス
@@ -42,14 +39,15 @@
 
 - React
 - TypeScript
+- vite
 - Zustand
 - TanStack Query
 - Rails API
-- GitHub Actions
+- GitHub Actions CI/CD
 
 ---
 
-## Featured Project  
+## Portfolio
 
 ### ポートフォリオ No.1 「ColorMirror_Re」
 
