@@ -19,7 +19,6 @@
 
 </p>
 
-# Hi there 👋 I'm Yuji Inoue
 
 ---
 
