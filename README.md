@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## language & Tools
+## 技術スタック
 <p>
 
   <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,ruby,rails,php,laravel,mysql,postgres,git,githubactions,docker,render,vercel" />
@@ -22,7 +22,7 @@
 
 ---
 
-## About Me
+## 経歴
 
 - 🍱 新卒で入社した会社の食品製造工場で10年以上勤務
 - 👥 現在は製造部門リーダーとしてチーム運営・業務改善を担当
@@ -32,7 +32,7 @@
 
 ---
 
-## Current Focus
+## 現在習得中
 
 現在はポートフォリオアプリの改善を通して、以下を中心に学習しています。
 
@@ -46,9 +46,9 @@
 
 ---
 
-## Portfolio
+## ポートフォリオ
 
-### ポートフォリオ No.1 「ColorMirror_Re」
+### No.1 「ColorMirror_Re」
 
 感情を色で可視化する記録アプリ  
 No.2のアプリを「React + Rails API」でリプレイス開発したアプリ  
@@ -64,7 +64,7 @@ https://github.com/yuji-2293/ColorMirror_Re
 https://color-mirror-re.vercel.app/
 
 ---
-### ポートフォリオ No.2 「ColorMirror」  
+### No.2 「ColorMirror」  
 
 感情を色で可視化する記録アプリ  
 RUNTEQ卒業制作アプリ  
