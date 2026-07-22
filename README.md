@@ -1,8 +1,8 @@
 ## BADGES
 
 <p align="left">
-  <a href="https://github.com/yuji2534">
-    <img height="20" src="https://komarev.com/ghpvc/?username=yuji2534" />
+  <a href="https://github.com/yuji2293">
+    <img height="20" src="https://komarev.com/ghpvc/?username=yuji2293" />
   </a>
   <a href="http://qiita.com/yuji2534">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yuji2534/posts.svg" />
