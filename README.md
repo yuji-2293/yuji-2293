@@ -52,13 +52,13 @@ React + TypeScript + Rails API構成へのリプレイス開発を行いまし�
 
 現在はポートフォリオアプリの改善を通して、以下を中心に学習しています。
 
-・ React
-・ TypeScript
-・ vite
-・ Zustand
-・ TanStack Query
-・ Rails API
-・ GitHub Actions CI/CD
+- React
+- TypeScript
+- Vite
+- Zustand
+- TanStack Query
+- Rails API
+- GitHub Actions CI/CD
 
 ---
 
